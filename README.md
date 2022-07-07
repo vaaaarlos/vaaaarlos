@@ -1,4 +1,4 @@
-# Hi, I'm vaaaarlos <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi, I'm vaaaarlos <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="32px">
 
 <table>
     <tr style="border-collapse: collapse;">
